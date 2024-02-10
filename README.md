@@ -14,7 +14,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto teve como objetivo principal fazer a construção do meu portfolio pessoal, oque é extremamente importante para um desenvolvedor. Nele, pude exibir meus conhecimentos nas tecnologias que domino e apresentar outros projetos que já realizei ao longo do meu processo de aprendizado.
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT.
 
